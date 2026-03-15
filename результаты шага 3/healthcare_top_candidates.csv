@@ -1,0 +1,32 @@
+
+lemma,word_id_in_chunk,word,pred_label,pred_id,is_metaphor,metaphor_score,context,corpus,chunk_id,global_word_id,is_punct,pos
+drive,38,driving,LABEL_0,0,1,0.9997962117195128,last . That is the driving mission of our 10 -,healthcare,45,3498,False,VERB
+hard,7,hard,LABEL_0,0,1,0.9997074007987976,"Lord Darzi that we wanted hard truths , warts and all",healthcare,2,139,False,ADJ
+duck,19,ducked,LABEL_0,0,1,0.9996798634529114,the decisions that the Conservatives ducked to give our children a,healthcare,22,1365,False,VERB
+slash,7,slashes,LABEL_0,0,1,0.9996778964996338,comes reform . This plan slashes unnecessary bureaucracy and devolves power,healthcare,55,4581,False,NOUN
+landscape,69,landscape,LABEL_0,0,1,0.999632716178894,and simplification of the funding landscape that enables them to plan,healthcare,39,2946,False,NOUN
+source,1,source,LABEL_0,0,1,0.9996064901351928,Another source of savings is the plan,healthcare,67,6092,False,NOUN
+catch,56,catch,LABEL_0,0,1,0.9996060729026794,", reforming the NHS to catch illness earlier — starting by",healthcare,22,1402,False,VERB
+close,139,closes,LABEL_0,0,1,0.9995986819267272,for better service . It closes health inequalities by investing more,healthcare,55,4713,False,VERB
+golden,20,golden,LABEL_0,0,1,0.9995911717414856,and big data offers a golden opportunity to deliver better care,healthcare,54,4418,False,ADJ
+sit,3,sits,LABEL_0,0,1,0.999580442905426,Fourthly — this sits firmly at Opposition Members ’,healthcare,15,659,False,VERB
+end,51,end,LABEL_0,0,1,0.9995630979537964,mental health staff by the end of this Parliament ; and,healthcare,41,3145,False,NOUN
+foot,17,feet,LABEL_0,0,1,0.9995549917221068,the NHS back on its feet and make it fit for,healthcare,47,3666,False,NOUN
+build,73,build,LABEL_0,0,1,0.9995337724685668,working conditions . We cannot build a sustainable workforce on good,healthcare,67,6164,False,VERB
+yard,83,yards,LABEL_0,0,1,0.9995070099830629,"politics and do the hard yards of fixing our country ,",healthcare,42,3283,False,NOUN
+pour,75,pour,LABEL_0,0,1,0.9994651079177856,on the left demand — pour ever - increasing amounts of,healthcare,19,987,False,VERB
+face,18,faces,LABEL_0,0,1,0.999460518360138,about the problems the NHS faces and serious about fixing them,healthcare,1,51,False,VERB
+tackle,86,tackle,LABEL_0,0,1,0.9994530081748962,"failed to pass , to tackle one of society ’ s",healthcare,22,1432,False,VERB
+deliver,163,deliver,LABEL_0,0,1,0.9994319081306458,"maternity and neonatal services to deliver the truth , justice and",healthcare,55,4737,False,VERB
+path,114,path,LABEL_0,0,1,0.9994299411773682,we will not take that path . This Government are making,healthcare,19,1026,False,NOUN
+scorch,11,scorched,LABEL_0,0,1,0.9994063377380372,… it took a ‘ scorched earth ’ approach to health,healthcare,7,450,False,VERB
+cripple,175,cripple,LABEL_0,0,1,0.9994032979011536,strikes that they allowed to cripple our health service .,healthcare,19,1087,False,NOUN
+imprison,17,imprisoned,LABEL_0,0,1,0.9993652701377868,and Social Care Act 2012 imprisoned more than a million NHS,healthcare,9,498,False,VERB
+road,43,road,LABEL_0,0,1,0.9993458986282348,put the NHS on the road to recovery . We promised,healthcare,46,3550,False,NOUN
+power,135,power,LABEL_0,0,1,0.999323070049286,will significantly erode its purchasing power . The British Medical Association,healthcare,62,5597,False,NOUN
+reveal,12,revealed,LABEL_0,0,1,0.999316155910492,"his independent review , which revealed the scale of the challenge",healthcare,27,1650,False,VERB
+raw,17,raw,LABEL_0,0,1,0.9993123412132264,"all . His findings are raw , honest and breathtaking .",healthcare,2,149,False,ADJ
+background,173,background,LABEL_0,0,1,0.9993078708648682,class service — whatever their background and whatever they earn .,healthcare,52,4282,False,NOUN
+door,47,door,LABEL_0,0,1,0.999284327030182,"app will become the front door to the health service ,",healthcare,52,4156,False,NOUN
+shift,2,shift,LABEL_0,0,1,0.9992786645889282,The third shift is from sickness to prevention,healthcare,53,4290,False,NOUN
+hit,27,hit,LABEL_0,0,1,0.999270498752594,not know that the pandemic hit the NHS harder than any,healthcare,12,601,False,VERB

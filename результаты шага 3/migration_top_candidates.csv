@@ -1,0 +1,32 @@
+
+lemma,word_id_in_chunk,word,pred_label,pred_id,is_metaphor,metaphor_score,context,corpus,chunk_id,global_word_id,is_punct,pos
+scratch,14,scratches,LABEL_0,0,1,0.999866247177124,so weak that it barely scratches the surface . On its,migration,64,7586,False,NOUN
+seek,24,seeks,LABEL_0,0,1,0.9998580813407898,"its first page , it seeks to create a false impression",migration,64,7596,False,VERB
+face,61,faces,LABEL_0,0,1,0.9998398423194884,"it , because the sector faces significant shortages and we need",migration,22,2237,False,VERB
+stage,144,stage,LABEL_0,0,1,0.999778926372528,home or on the international stage .,migration,30,3292,False,NOUN
+impression,29,impression,LABEL_0,0,1,0.9997271299362184,seeks to create a false impression . It says — the,migration,64,7601,False,NOUN
+touch,4,touch,LABEL_0,0,1,0.999720573425293,I would like to touch briefly on asylum as well,migration,13,1302,False,NOUN
+road,28,road,LABEL_0,0,1,0.9997172355651855,"If they continue down that road , they will see further",migration,25,2588,False,NOUN
+approach,40,approach,LABEL_0,0,1,0.9997008442878724,rules that apply the same approach . We will extend the,migration,55,6746,False,NOUN
+big,120,bigger,LABEL_0,0,1,0.9996860027313232,need greater scrutiny and a bigger role for Parliament to allow,migration,15,1625,False,ADJ
+track,141,track,LABEL_0,0,1,0.9996781349182128,if we continue down this track could be an eye -,migration,38,4507,False,NOUN
+weak,10,weak,LABEL_0,0,1,0.9996687769889832,that this plan is so weak that it barely scratches the,migration,64,7582,False,ADJ
+link,30,links,LABEL_0,0,1,0.999634563922882,else . We have those links . We want Scotland to,migration,30,3178,False,NOUN
+deliver,19,deliver,LABEL_0,0,1,0.999630331993103,. My new law would deliver that and ensure that we,migration,16,1681,False,VERB
+tackle,85,tackle,LABEL_0,0,1,0.9996185898780824,but without any requirement to tackle skills and labour shortages here,migration,44,5279,False,VERB
+knock,14,knocked,LABEL_0,0,1,0.9996172785758972,dependants from visas have already knocked 0 . 5 % off,migration,25,2574,False,VERB
+launch,21,launched,LABEL_0,0,1,0.999570369720459,"years after the previous Government launched it , I can report",migration,34,3782,False,VERB
+impact,74,impact,LABEL_0,0,1,0.9995251893997192,need to think about the impact of the decisions we are,migration,12,1278,False,NOUN
+grip,27,grip,LABEL_0,0,1,0.9995038509368896,"urgently taking to restore some grip to the system , to",migration,39,4561,False,NOUN
+surface,16,surface,LABEL_0,0,1,0.9994928240776062,that it barely scratches the surface . On its first page,migration,64,7588,False,NOUN
+strong,15,stronger,LABEL_0,0,1,0.9994701147079468,. We will bring in stronger controls where there is evidence,migration,58,6991,False,ADJ
+wide,56,wide,LABEL_0,0,1,0.9994530081748962,and remove perpetrators of a wide range of crimes who are,migration,59,7110,False,ADV
+end,5,end,LABEL_0,0,1,0.9994454383850098,"Either way , at the end of the day , MPs",migration,7,618,False,NOUN
+view,62,views,LABEL_0,0,1,0.9994142651557922,says that people ’ s views of migration remain more positive,migration,21,2118,False,NOUN
+build,68,built,LABEL_0,0,1,0.9993883967399596,exactly that . It is built on five core principles :,migration,45,5367,False,VERB
+decide,78,decides,LABEL_0,0,1,0.9993752837181092,have a migration policy that decides who comes in and who,migration,29,3111,False,VERB
+power,89,power,LABEL_0,0,1,0.9993572235107422,this Bill is about giving power back to Parliament .,migration,8,817,False,NOUN
+speak,2,speaks,LABEL_0,0,1,0.9993295073509216,The Bill speaks to a very small and,migration,29,3035,False,VERB
+hand,104,hands,LABEL_0,0,1,0.9992874264717102,"be in Scotland ’ s hands , rather than those of",migration,30,3252,False,NOUN
+work,161,work,LABEL_0,0,1,0.9992721676826476,because the law does not work . Only a small minority,migration,36,4219,False,VERB
+far,151,far,LABEL_0,0,1,0.999267578125,getting away with this for far too long . Nor is,migration,43,5157,False,ADV

@@ -1,0 +1,32 @@
+
+lemma,word_id_in_chunk,word,pred_label,pred_id,is_metaphor,metaphor_score,context,corpus,chunk_id,global_word_id,is_punct,pos
+drown,24,drowning,LABEL_0,0,1,0.999845564365387,"dictated Employment Rights Bill , drowning employers in red tape .",economy,32,3869,False,VERB
+hole,80,hole,LABEL_0,0,1,0.99981951713562,"underestimated . Together , the hole in our public finances this",economy,12,1045,False,NOUN
+send,14,sending,LABEL_0,0,1,0.9997987747192384,s combination of actions are sending a clear and regrettable message,economy,45,4885,False,VERB
+ladder,77,ladder,LABEL_0,0,1,0.9997599124908448,their first step on the ladder of opportunity and their first,economy,42,4570,False,NOUN
+feel,21,feel,LABEL_0,0,1,0.999747633934021,British people can see and feel that in their everyday lives,economy,9,730,False,VERB
+pain,97,pain,LABEL_0,0,1,0.9997367262840272,is long overdue for the pain and injustice that they have,economy,11,957,False,NOUN
+fabric,68,fabric,LABEL_0,0,1,0.9997349977493286,destructive choice for both the fabric of our society and our,economy,53,5817,False,NOUN
+fight,165,fight,LABEL_0,0,1,0.9997285604476928,the road to start a fight with Britain ’ s businesses,economy,30,3736,False,VERB
+heart,100,heart,LABEL_0,0,1,0.9997219443321228,their communities and in the heart of their families .,economy,44,4866,False,NOUN
+raise,72,raise,LABEL_0,0,1,0.9997135400772096,", which will not even raise any money . If the",economy,43,4738,False,VERB
+drive,12,driving,LABEL_0,0,1,0.9997008442878724,is vital that we are driving efficiency and reducing wasteful spending,economy,19,2129,False,VERB
+track,153,track,LABEL_0,0,1,0.9997007846832277,positioned to achieve the unbroken track record of every Labour Government,economy,42,4646,False,NOUN
+guide,12,guide,LABEL_0,0,1,0.9996971487998962,the fiscal rules that would guide this Government . I am,economy,17,1750,False,VERB
+cut,6,cut,LABEL_0,0,1,0.9996966123580932,"will simply force businesses to cut jobs , freeze recruitment ,",economy,35,3932,False,VERB
+access,89,access,LABEL_0,0,1,0.9996943473815918,and it will improve their access to paternity and maternity leave,economy,27,3291,False,NOUN
+power,98,powered,LABEL_0,0,1,0.9996936321258544,so that working people who powered our country receive the fair,economy,28,3413,False,VERB
+slap,63,slapped,LABEL_0,0,1,0.9996932148933412,"autumn Budget , the Chancellor slapped a £ 25 billion jobs",economy,31,3806,False,VERB
+force,3,force,LABEL_0,0,1,0.999692976474762,"“ will simply force businesses to cut jobs ,",economy,35,3929,False,NOUN
+hit,51,hitting,LABEL_0,0,1,0.9996763467788696,three in particular that are hitting pubs so badly . It,economy,41,4374,False,VERB
+page,113,page,LABEL_0,0,1,0.9996675252914428,economic stability and turn the page on the last 14 years,economy,0,113,False,NOUN
+burn,4,burns,LABEL_0,0,1,0.9996671676635742,"My belief in Britain burns brighter than ever , and",economy,0,4,False,NOUN
+mechanic,11,mechanics,LABEL_0,0,1,0.9996573328971864,Government do not understand the mechanics of business ; they do,economy,47,5074,False,NOUN
+cross,159,crossed,LABEL_0,0,1,0.999652087688446,yet this Labour Government have crossed the road to start a,economy,30,3730,False,VERB
+freeze,9,freeze,LABEL_0,0,1,0.999630331993103,"businesses to cut jobs , freeze recruitment , cancel planned investment",economy,35,3935,False,VERB
+door,57,door,LABEL_0,0,1,0.9996120929718018,", we are closing the door with these ideologically - driven",economy,43,4723,False,NOUN
+white,53,white,LABEL_0,0,1,0.9996115565299988,"that rebuilt Britain with the white heat of technology , and",economy,1,173,False,ADJ
+strong,200,stronger,LABEL_0,0,1,0.9996089339256288,a fairer society and a stronger economy to the next generation,economy,1,320,False,ADJ
+embrace,69,embracing,LABEL_0,0,1,0.9996021389961244,others . It is about embracing risk knowing that there are,economy,47,5132,False,VERB
+room,27,room,LABEL_0,0,1,0.9995649456977844,she has left herself no room for manoeuvre ? She is,economy,65,6937,False,NOUN
+lift,103,lifting,LABEL_0,0,1,0.9995428323745728,"their award each month , lifting children out of poverty ,",economy,26,3182,False,VERB
