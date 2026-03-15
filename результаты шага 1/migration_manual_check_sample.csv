@@ -1,0 +1,31 @@
+word_id_in_chunk,word,pred_label,pred_id,is_metaphor,metaphor_score,context,corpus,chunk_id,global_word_id,is_punct
+11,lowest,LABEL_0,0,1,0.9839432835578918,people in areas with the lowest migration seem bizarrely to fear,migration,21,2067,False
+87,allowed,LABEL_0,0,1,0.5884971618652344,home . Educational institutions were allowed to substantially expand the number,migration,48,5795,False
+7,chaos,LABEL_0,0,1,0.9663094282150269,we will end the asylum chaos and start taking asylum decisions,migration,42,4863,False
+98,bring,LABEL_0,0,1,0.9899571537971497,. He mentioned that people bring him their concerns about migration,migration,20,2017,False
+116,planned,LABEL_0,0,1,0.8805299997329712,", the previous Government had planned to spend over £ 10",migration,35,3992,False
+40,end,LABEL_0,0,1,0.9979459643363953,"are making in pursuing the end of free movement , which",migration,26,2707,False
+70,introduce,LABEL_0,0,1,0.8391299843788147,Bill that he seeks to introduce today . It is simply,migration,28,3024,False
+23,networks,LABEL_0,0,1,0.980200469493866,too weak . Criminal gang networks are operating with impunity along,migration,33,3603,False
+155,weak,LABEL_0,0,1,0.9980418682098389,"As a result of these weak arrangements , I am extremely",migration,33,3735,False
+91,thing,LABEL_0,0,1,0.9968945980072021,and that is the wrong thing to do . It is,migration,38,4457,False
+24,seeks,LABEL_0,0,1,0.9998580813407898,"its first page , it seeks to create a false impression",migration,64,7596,False
+32,failed,LABEL_0,0,1,0.8872010707855225,", but it has clearly failed . The legal contradictions in",migration,36,4090,False
+28,road,LABEL_0,0,1,0.9997172355651855,"If they continue down that road , they will see further",migration,25,2588,False
+152,healthy,LABEL_0,0,1,0.9972834587097168,"our build rate is pretty healthy at the moment , but",migration,10,1075,False
+14,make,LABEL_0,0,1,0.9969179034233093,contribution we expect people to make when they come to our,migration,55,6720,False
+86,surge,LABEL_0,0,1,0.8829084634780884,", but it must not surge like that again . It",migration,52,6439,False
+62,market,LABEL_0,0,1,0.9983644485473633,what was effectively a free market experiment on immigration : encouraging,migration,44,5256,False
+125,damaging,LABEL_0,0,1,0.8490622639656067,"increase in exploitation , deeply damaging for those who came to",migration,48,5833,False
+65,applied,LABEL_0,0,1,0.9988843202590942,"rules should be interpreted and applied , to prevent confusion or",migration,56,6909,False
+49,points,LABEL_0,0,1,0.7525898814201355,"extend the principles of the points - based system , doubling",migration,55,6755,False
+130,support,LABEL_0,0,1,0.9266113638877869,The potential costs of asylum support over the next four years,migration,38,4496,False
+161,work,LABEL_0,0,1,0.9992721676826477,because the law does not work . Only a small minority,migration,36,4219,False
+7,plan,LABEL_0,0,1,0.995082676410675,also no surprise that this plan is so weak that it,migration,64,7579,False
+44,Action,LABEL_0,0,1,0.8243445754051208,across the UK too . Action between Britain and France in,migration,33,3624,False
+139,shocked,LABEL_0,0,1,0.987628698348999,", and I have been shocked by what I have found",migration,32,3551,False
+56,central,LABEL_0,0,1,0.9910593628883362,"12 months on , the central duty has not even been",migration,36,4114,False
+205,contribution,LABEL_0,0,1,0.8687039613723755,to speak English and the contribution that people can bring to,migration,45,5504,False
+89,power,LABEL_0,0,1,0.9993572235107422,this Bill is about giving power back to Parliament .,migration,8,817,False
+30,links,LABEL_0,0,1,0.9996345639228821,else . We have those links . We want Scotland to,migration,30,3178,False
+137,make,LABEL_0,0,1,0.9989898204803467,hon . Gentleman wants to make an argument about reforming the,migration,27,2878,False

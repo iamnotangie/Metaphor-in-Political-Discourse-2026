@@ -1,0 +1,31 @@
+word_id_in_chunk,word,pred_label,pred_id,is_metaphor,metaphor_score,context,corpus,chunk_id,global_word_id,is_punct
+35,settlement,LABEL_0,0,1,0.9349182844161987,for elective care . This settlement will drive us further towards,healthcare,37,2762,False
+28,make,LABEL_0,0,1,0.9991277456283569,that will enable us to make firm plans to deliver on,healthcare,35,2375,False
+36,level,LABEL_0,0,1,0.8222563862800598,"of agencies for entry - level roles . Again , this",healthcare,67,6127,False
+10,define,LABEL_0,0,1,0.9570783972740173,national story when our choices define who we are . In,healthcare,44,3386,False
+30,charges,LABEL_0,0,1,0.6521281599998474,"of charge , frozen prescription charges for the first time in",healthcare,34,2269,False
+76,Plan,LABEL_0,0,1,0.9459750056266785,the 10 - year Health Plan . This is the next,healthcare,25,1558,False
+124,power,LABEL_0,0,1,0.9985267519950867,"outcomes . The plan gives power to the patient , so",healthcare,55,4698,False
+48,undone,LABEL_0,0,1,0.9686158299446106,"patients , have mostly been undone , and that is why",healthcare,18,857,False
+18,structures,LABEL_0,0,1,0.9972636103630066,on dissolving and reconstituting management structures had instead been invested in,healthcare,11,548,False
+54,rebuilding,LABEL_0,0,1,0.9949787855148315,"dentists doing NHS work , rebuilding NHS dentistry .",healthcare,49,3936,False
+15,shift,LABEL_0,0,1,0.9360889196395874,rightly emphasised the need to shift from analogue to digital systems,healthcare,61,5345,False
+149,turn,LABEL_0,0,1,0.7847518920898438,2023 - 24 out - turn .,healthcare,32,2126,False
+80,take,LABEL_0,0,1,0.9995880722999573,what the Conservatives did to take the NHS from the shortest,healthcare,18,889,False
+130,unlock,LABEL_0,0,1,0.9979514479637146,relying on digital transformation to unlock the bulk of those savings,healthcare,66,6069,False
+28,get,LABEL_0,0,1,0.9934221506118774,service so that patients can get their tests and scans on,healthcare,21,1292,False
+77,made,LABEL_0,0,1,0.9626001119613647,NHS and the difference it made to our lives . We,healthcare,56,4826,False
+3,sits,LABEL_0,0,1,0.999580442905426,Fourthly — this sits firmly at Opposition Members ’,healthcare,15,659,False
+77,challenges,LABEL_0,0,1,0.996910572052002,", able to meet the challenges of this century .",healthcare,21,1341,False
+19,move,LABEL_0,0,1,0.9979697465896606,done to our NHS and move it forward . They have,healthcare,33,2147,False
+5,impact,LABEL_0,0,1,0.9989586472511292,“ The pandemic ’ s impact was magnified because the NHS,healthcare,14,638,False
+15,helping,LABEL_0,0,1,0.8908672332763672,"training thousands more GPs , helping to bring back the family",healthcare,41,3109,False
+93,killers,LABEL_0,0,1,0.980506956577301,of society ’ s biggest killers .,healthcare,22,1439,False
+84,account,LABEL_0,0,1,0.5353689789772034,"single , secure and authoritative account of their data . The",healthcare,51,4071,False
+166,give,LABEL_0,0,1,0.9971251487731934,"all else , we will give power to the patient .",healthcare,57,5021,False
+21,forward,LABEL_0,0,1,0.9258694052696228,our NHS and move it forward . They have rejected two,healthcare,33,2149,False
+88,control,LABEL_0,0,1,0.6883443593978882,"giving patients proper choice and control over their own healthcare ,",healthcare,20,1180,False
+31,reaching,LABEL_0,0,1,0.9333967566490173,"own home , with clinicians reaching out at the first signs",healthcare,52,4140,False
+84,backed,LABEL_0,0,1,0.9979838728904724,"health data research service , backed by £ 600 million ,",healthcare,40,3080,False
+9,Working,LABEL_0,0,1,0.6068127751350403,"from sickness to prevention . Working with the food industry ,",healthcare,53,4297,False
+48,set,LABEL_0,0,1,0.9991700649261475,"the path on which they set the NHS , and the",healthcare,19,960,False

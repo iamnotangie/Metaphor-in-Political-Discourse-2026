@@ -1,0 +1,31 @@
+word_id_in_chunk,word,pred_label,pred_id,is_metaphor,metaphor_score,context,corpus,chunk_id,global_word_id,is_punct
+28,rule,LABEL_0,0,1,0.9112595319747925,stability rule and our investment rule . The stability rule means,economy,17,1766,False
+87,growth,LABEL_0,0,1,0.9941837191581726,"creating a lost decade for growth , wages and living standards",economy,53,5836,False
+62,driven,LABEL_0,0,1,0.9900904893875122,"door with these ideologically - driven non - dom reforms ,",economy,43,4728,False
+5,set,LABEL_0,0,1,0.9530465006828308,"In our manifesto , we set out the fiscal rules that",economy,17,1743,False
+13,planned,LABEL_0,0,1,0.5521102547645569,", freeze recruitment , cancel planned investment , reduce trading hours",economy,35,3939,False
+56,access,LABEL_0,0,1,0.9977962970733643,"on fraudsters , including direct access to bank accounts to recover",economy,21,2397,False
+23,far,LABEL_0,0,1,0.9907001852989197,"cheques do not go as far as they once did ,",economy,24,2651,False
+114,change,LABEL_0,0,1,0.9197108149528503,"on the Government to urgently change course to support jobseekers ,",economy,29,3539,False
+131,pass,LABEL_0,0,1,0.9991300106048584,intact when they seek to pass it to their children after,economy,30,3702,False
+65,measures,LABEL_0,0,1,0.9979742169380188,reversing so many of the measures . The choices this Government,economy,40,4304,False
+108,said,LABEL_0,0,1,0.9997416138648987,the Institute for Fiscal Studies said this week are both in,economy,71,7587,False
+70,seeing,LABEL_0,0,1,0.9989190101623535,"local community spaces , are seeing their margins slashed because of",economy,37,4033,False
+7,steps,LABEL_0,0,1,0.9974404573440552,I am also taking three steps to ensure that welfare spending,economy,20,2281,False
+3,inherited,LABEL_0,0,1,0.9977232813835144,The country has inherited not just broken public finances,economy,9,712,False
+98,coming,LABEL_0,0,1,0.9893978834152222,we all know what is coming in the autumn . Her,economy,64,6853,False
+15,worth,LABEL_0,0,1,0.8999063968658447,This spending review is not worth the paper it is written,economy,62,6571,False
+1,driving,LABEL_0,0,1,0.9996274709701538,My driving purpose since I became Chancellor,economy,49,5288,False
+57,rules,LABEL_0,0,1,0.9087778329849243,"changed them . My fiscal rules are non - negotiable ,",economy,54,5905,False
+120,inherited,LABEL_0,0,1,0.9956441521644592,higher than the plans she inherited from the Conservatives .,economy,65,7030,False
+134,weak,LABEL_0,0,1,0.7970620393753052,"is weak , weak , weak . They can smell the",economy,64,6889,False
+32,make,LABEL_0,0,1,0.9996718764305115,Fakenham . People could perhaps make an argument for individual tax,economy,41,4355,False
+70,taking,LABEL_0,0,1,0.9995819926261902,energy on the line by taking risk to create wealth as,economy,38,4150,False
+54,run,LABEL_0,0,1,0.996479332447052,", apparently to avoid a run on the pound , this",economy,71,7533,False
+115,course,LABEL_0,0,1,0.9987354278564453,"the Government to urgently change course to support jobseekers , small",economy,29,3540,False
+49,took,LABEL_0,0,1,0.9947279691696167,"businesses have closed since Labour took office , as a result",economy,29,3474,False
+104,putting,LABEL_0,0,1,0.9575583934783936,of business rates relief is putting the regeneration of our town,economy,37,4067,False
+81,lining,LABEL_0,0,1,0.9990138411521912,Countries around the world are lining up to do business with,economy,50,5529,False
+123,shows,LABEL_0,0,1,0.9958450198173523,"that we inherited , which shows hundreds of unfunded pressures on",economy,2,452,False
+142,means,LABEL_0,0,1,0.8394859433174133,introduced in 1976 . That means that a carer can now,economy,25,2986,False
+4,consider,LABEL_0,0,1,0.9977016448974609,Before a Government can consider any change to a tax,economy,23,2504,False
