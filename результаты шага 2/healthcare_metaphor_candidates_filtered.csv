@@ -1,0 +1,245 @@
+word_id_in_chunk,word,pred_label,pred_id,is_metaphor,metaphor_score,context,corpus,chunk_id,global_word_id,is_punct,lemma,pos
+3,holders,LABEL_0,0,1,0.9980014562606812,"Unlike the last holders of this office , this",healthcare,1,36,False,holder,NOUN
+18,faces,LABEL_0,0,1,0.999460518360138,about the problems the NHS faces and serious about fixing them,healthcare,1,51,False,face,VERB
+22,fixing,LABEL_0,0,1,0.9962786436080932,NHS faces and serious about fixing them . That is why,healthcare,1,55,False,fix,VERB
+38,served,LABEL_0,0,1,0.9954146146774292,an eminent cancer surgeon who served both Labour and Conservative -,healthcare,1,71,False,serve,VERB
+72,join,LABEL_0,0,1,0.997287392616272,whole House will want to join me in thanking him for,healthcare,1,105,False,join,VERB
+7,hard,LABEL_0,0,1,0.9997074007987976,"Lord Darzi that we wanted hard truths , warts and all",healthcare,2,139,False,hard,ADJ
+10,warts,LABEL_0,0,1,0.9951740503311156,"we wanted hard truths , warts and all . His findings",healthcare,2,142,False,wart,NOUN
+17,raw,LABEL_0,0,1,0.9993123412132264,"all . His findings are raw , honest and breathtaking .",healthcare,2,149,False,raw,ADJ
+17,shocked,LABEL_0,0,1,0.9945189952850342,"years , I have been shocked by what I have found",healthcare,3,175,False,shock,VERB
+76,reverse,LABEL_0,0,1,0.9954063296318054,cardiovascular disease is going into reverse ; and cancer is more,healthcare,4,259,False,reverse,VERB
+138,piling,LABEL_0,0,1,0.999241590499878,in life . That is piling pressure on to the NHS,healthcare,4,321,False,pile,VERB
+139,pressure,LABEL_0,0,1,0.993476629257202,life . That is piling pressure on to the NHS and,healthcare,4,322,False,pressure,NOUN
+5,symptoms,LABEL_0,0,1,0.9924201369285583,Those are some of the symptoms ; the report is equally,healthcare,5,338,False,symptom,NOUN
+32,sector,LABEL_0,0,1,0.9905073046684264,"15 years behind the private sector on technology , with fewer",healthcare,5,365,False,sector,NOUN
+20,assessment,LABEL_0,0,1,0.9979705214500428,. Lord Darzi ’ s assessment is damning :,healthcare,6,435,False,assessment,NOUN
+11,scorched,LABEL_0,0,1,0.9994063377380372,… it took a ‘ scorched earth ’ approach to health,healthcare,7,450,False,scorch,VERB
+14,approach,LABEL_0,0,1,0.9992669224739076,a ‘ scorched earth ’ approach to health reform ” .,healthcare,7,453,False,approach,NOUN
+13,sticking,LABEL_0,0,1,0.9991451501846312,in place ‘ workarounds and sticking plasters ’ to bypass the,healthcare,8,472,False,stick,VERB
+3,liberating,LABEL_0,0,1,0.9991451501846312,"“ Rather than liberating the NHS , as promised",healthcare,9,484,False,liberate,VERB
+17,imprisoned,LABEL_0,0,1,0.9993652701377868,and Social Care Act 2012 imprisoned more than a million NHS,healthcare,9,498,False,imprison,VERB
+26,broken,LABEL_0,0,1,0.9987608194351196,million NHS staff in a broken system for the best part,healthcare,9,507,False,break,VERB
+6,felt,LABEL_0,0,1,0.9932651519775392,the effects … are still felt to this day . ”,healthcare,10,524,False,feel,VERB
+14,dissolving,LABEL_0,0,1,0.9956421256065368,billions of pounds wasted on dissolving and reconstituting management structures had,healthcare,11,544,False,dissolve,VERB
+18,structures,LABEL_0,0,1,0.9972636103630066,on dissolving and reconstituting management structures had instead been invested in,healthcare,11,548,False,structure,NOUN
+37,mess,LABEL_0,0,1,0.9991417527198792,would not be in the mess it finds itself in today,healthcare,11,567,False,mess,NOUN
+39,finds,LABEL_0,0,1,0.9960351586341858,be in the mess it finds itself in today .,healthcare,11,569,False,find,VERB
+27,hit,LABEL_0,0,1,0.999270498752594,not know that the pandemic hit the NHS harder than any,healthcare,12,601,False,hit,VERB
+30,harder,LABEL_0,0,1,0.9936262965202332,the pandemic hit the NHS harder than any other comparable healthcare,healthcare,12,604,False,hard,ADV
+3,far,LABEL_0,0,1,0.9966586828231812,The NHS cancelled far more operations and routine care,healthcare,13,618,False,far,ADV
+5,impact,LABEL_0,0,1,0.9989586472511292,“ The pandemic ’ s impact was magnified because the NHS,healthcare,14,638,False,impact,NOUN
+14,weakened,LABEL_0,0,1,0.9986863732337952,the NHS had been seriously weakened in the decade preceding its,healthcare,14,647,False,weaken,VERB
+3,sits,LABEL_0,0,1,0.999580442905426,Fourthly — this sits firmly at Opposition Members ’,healthcare,15,659,False,sit,VERB
+4,firmly,LABEL_0,0,1,0.9938223958015442,Fourthly — this sits firmly at Opposition Members ’ door,healthcare,15,660,False,firmly,ADV
+48,lead,LABEL_0,0,1,0.993139147758484,in hospitals . Did it lead to better outcomes for patients,healthcare,15,704,False,lead,VERB
+71,fall,LABEL_0,0,1,0.9919195175170898,has instead seen a huge fall in productivity . We paid,healthcare,15,727,False,fall,NOUN
+87,resources,LABEL_0,0,1,0.997526228427887,— a deplorable waste of resources when so many parts of,healthcare,15,743,False,resource,NOUN
+99,crying,LABEL_0,0,1,0.997569501399994,health and care services were crying out for investment . As,healthcare,15,755,False,cry,VERB
+15,dealing,LABEL_0,0,1,0.9970545172691344,beds for their patients and dealing with outdated IT when they,healthcare,17,797,False,deal,VERB
+36,drove,LABEL_0,0,1,0.9997499585151672,"last Labour Government , which drove better performance and better care",healthcare,18,845,False,drive,VERB
+89,highest,LABEL_0,0,1,0.9972036480903624,the shortest waiting times and highest patient satisfaction in history to,healthcare,18,898,False,high,ADJ
+96,broken,LABEL_0,0,1,0.9991472363471984,satisfaction in history to the broken NHS that we see today,healthcare,18,905,False,break,VERB
+16,prescription,LABEL_0,0,1,0.998554229736328,"to us to write the prescription , and we have three",healthcare,19,928,False,prescription,NOUN
+39,collapse,LABEL_0,0,1,0.9988804459571838,and allow the NHS to collapse . That is the path,healthcare,19,951,False,collapse,VERB
+44,path,LABEL_0,0,1,0.9986951351165771,collapse . That is the path on which they set the,healthcare,19,956,False,path,NOUN
+54,path,LABEL_0,0,1,0.9980908036231996,"the NHS , and the path that it is on today",healthcare,19,966,False,path,NOUN
+75,pour,LABEL_0,0,1,0.9994651079177856,on the left demand — pour ever - increasing amounts of,healthcare,19,987,False,pour,VERB
+114,path,LABEL_0,0,1,0.9994299411773682,we will not take that path . This Government are making,healthcare,19,1026,False,path,NOUN
+140,crisis,LABEL_0,0,1,0.9901778697967528,"to deal with the immediate crisis by hiring 1 , 000",healthcare,19,1052,False,crisis,NOUN
+175,cripple,LABEL_0,0,1,0.9994032979011536,strikes that they allowed to cripple our health service .,healthcare,19,1087,False,cripple,NOUN
+60,deliver,LABEL_0,0,1,0.996641993522644,report . Our plan will deliver the three big shifts needed,healthcare,20,1152,False,deliver,VERB
+63,big,LABEL_0,0,1,0.99299293756485,plan will deliver the three big shifts needed to make our,healthcare,20,1155,False,big,ADJ
+64,shifts,LABEL_0,0,1,0.99264657497406,will deliver the three big shifts needed to make our NHS,healthcare,20,1156,False,shift,NOUN
+70,fit,LABEL_0,0,1,0.9979884028434752,needed to make our NHS fit for the future . The,healthcare,20,1162,False,fit,ADJ
+126,marrying,LABEL_0,0,1,0.999013602733612,your GP writes . By marrying our country ’ s leading,healthcare,20,1218,False,marry,VERB
+57,building,LABEL_0,0,1,0.9982778429985046,back the family doctor and building a national care service that,healthcare,21,1321,False,build,VERB
+73,able,LABEL_0,0,1,0.998603343963623,"when we need it , able to meet the challenges of",healthcare,21,1337,False,able,ADJ
+77,challenges,LABEL_0,0,1,0.996910572052002,", able to meet the challenges of this century .",healthcare,21,1341,False,challenge,NOUN
+19,ducked,LABEL_0,0,1,0.9996798634529114,the decisions that the Conservatives ducked to give our children a,healthcare,22,1365,False,duck,VERB
+56,catch,LABEL_0,0,1,0.9996060729026794,", reforming the NHS to catch illness earlier — starting by",healthcare,22,1402,False,catch,VERB
+72,delivering,LABEL_0,0,1,0.9987168312072754,and on smartphones — and delivering the Tobacco and Vapes Bill,healthcare,22,1418,False,deliver,VERB
+83,pass,LABEL_0,0,1,0.992734670639038,"that the Conservatives failed to pass , to tackle one of",healthcare,22,1429,False,pass,VERB
+86,tackle,LABEL_0,0,1,0.9994530081748962,"failed to pass , to tackle one of society ’ s",healthcare,22,1432,False,tackle,VERB
+92,biggest,LABEL_0,0,1,0.9980843663215636,one of society ’ s biggest killers .,healthcare,22,1438,False,big,ADJ
+13,critical,LABEL_0,0,1,0.9959659576416016,NHS is in a “ critical condition ” — unless we,healthcare,23,1454,False,critical,ADJ
+14,condition,LABEL_0,0,1,0.9914156198501588,is in a “ critical condition ” — unless we perform,healthcare,23,1455,False,condition,NOUN
+31,finds,LABEL_0,0,1,0.994383990764618,die — but he also finds that,healthcare,23,1472,False,find,VERB
+2,vital,LABEL_0,0,1,0.997557818889618,“ its vital signs are strong ” :,healthcare,24,1476,False,vital,ADJ
+3,signs,LABEL_0,0,1,0.9985161423683168,“ its vital signs are strong ” :,healthcare,24,1477,False,sign,NOUN
+5,strong,LABEL_0,0,1,0.998989760875702,“ its vital signs are strong ” :,healthcare,24,1479,False,strong,ADJ
+16,broken,LABEL_0,0,1,0.9938853979110718,"Streeting ) Our NHS is broken , but not beaten ,",healthcare,25,1498,False,break,VERB
+20,beaten,LABEL_0,0,1,0.99875670671463,"is broken , but not beaten , and we have made",healthcare,25,1502,False,beat,VERB
+30,fix,LABEL_0,0,1,0.9963916540145874,made it our mission to fix the NHS . But we,healthcare,25,1512,False,fix,NOUN
+54,launching,LABEL_0,0,1,0.997606635093689,and so today I am launching Change NHS : A health,healthcare,25,1536,False,launch,VERB
+82,chapter,LABEL_0,0,1,0.9985561370849608,. This is the next chapter of the NHS ’ s,healthcare,25,1564,False,chapter,NOUN
+95,fit,LABEL_0,0,1,0.994506537914276,how we will make it fit for the future .,healthcare,25,1577,False,fit,ADJ
+51,fit,LABEL_0,0,1,0.9951798319816588,", and that it is fit for the future .",healthcare,26,1633,False,fit,ADJ
+12,revealed,LABEL_0,0,1,0.999316155910492,"his independent review , which revealed the scale of the challenge",healthcare,27,1650,False,reveal,VERB
+14,scale,LABEL_0,0,1,0.998525619506836,"review , which revealed the scale of the challenge we face",healthcare,27,1652,False,scale,NOUN
+17,challenge,LABEL_0,0,1,0.9962707757949828,revealed the scale of the challenge we face . Our NHS,healthcare,27,1655,False,challenge,NOUN
+26,pressure,LABEL_0,0,1,0.9919969439506532,Our NHS is under rising pressure ; we are diagnosing ill,healthcare,27,1664,False,pressure,NOUN
+50,hard,LABEL_0,0,1,0.996417999267578,place . It is too hard for people to get an,healthcare,27,1688,False,hard,ADJ
+4,reverse,LABEL_0,0,1,0.9979823231697084,I am determined to reverse record levels of public dissatisfaction,healthcare,28,1713,False,reverse,VERB
+32,steps,LABEL_0,0,1,0.9907986521720886,"We have already taken important steps , starting with plans to",healthcare,28,1741,False,step,NOUN
+38,fix,LABEL_0,0,1,0.9988444447517396,", starting with plans to fix the front door of the",healthcare,28,1747,False,fix,NOUN
+41,door,LABEL_0,0,1,0.9903371334075928,plans to fix the front door of the NHS by providing,healthcare,28,1750,False,door,NOUN
+61,end,LABEL_0,0,1,0.9990878105163574,", 000 GPs by the end of the financial year and",healthcare,28,1770,False,end,NOUN
+67,settling,LABEL_0,0,1,0.9990692138671876,of the financial year and settling the pay dispute with resident,healthcare,28,1776,False,settle,VERB
+6,broad,LABEL_0,0,1,0.9983404874801636,"decades , there has been broad consensus that to overcome the",healthcare,29,1790,False,broad,ADJ
+4,approach,LABEL_0,0,1,0.9930809736251832,We need a different approach to make these crucial shifts,healthcare,30,1851,False,approach,NOUN
+14,fit,LABEL_0,0,1,0.993787169456482,shifts and deliver an NHS fit for the future . I,healthcare,30,1861,False,fit,ADJ
+45,landscape,LABEL_0,0,1,0.9992539882659912,across the health and care landscape . The best ideas are,healthcare,30,1892,False,landscape,NOUN
+92,broken,LABEL_0,0,1,0.9946798086166382,to help us fix our broken NHS .,healthcare,30,1939,False,break,VERB
+8,fix,LABEL_0,0,1,0.9971332550048828,elected on a manifesto to fix our broken NHS and make,healthcare,32,1985,False,fix,NOUN
+10,broken,LABEL_0,0,1,0.9960938692092896,a manifesto to fix our broken NHS and make it fit,healthcare,32,1987,False,break,VERB
+15,fit,LABEL_0,0,1,0.997248649597168,broken NHS and make it fit for the future . Our,healthcare,32,1992,False,fit,ADJ
+34,feet,LABEL_0,0,1,0.9994520545005798,the NHS back on its feet and treating patients on time,healthcare,32,2011,False,foot,NOUN
+58,fit,LABEL_0,0,1,0.99607253074646,term so that it is fit for the future . That,healthcare,32,2035,False,fit,ADJ
+121,injection,LABEL_0,0,1,0.9974200129508972,Social Care received a cash injection of £ 26 billion covering,healthcare,32,2098,False,injection,NOUN
+11,repair,LABEL_0,0,1,0.9983993172645568,investment and those changes to repair the damage done to our,healthcare,33,2139,False,repair,NOUN
+70,biggest,LABEL_0,0,1,0.992906391620636,"in a generation , the biggest expansion of carer ’ s",healthcare,33,2198,False,big,ADJ
+71,expansion,LABEL_0,0,1,0.9968185424804688,"a generation , the biggest expansion of carer ’ s allowance",healthcare,33,2199,False,expansion,NOUN
+82,boost,LABEL_0,0,1,0.9990450739860536,"since the 1970s , a boost for older and disabled people",healthcare,33,2210,False,boost,VERB
+6,biggest,LABEL_0,0,1,0.998808979988098,"have also given pharmacies the biggest funding uplift in years ,",healthcare,34,2245,False,big,ADJ
+57,reaching,LABEL_0,0,1,0.997995138168335,diagnostic tests and treatments — reaching and surpassing our manifesto pledge,healthcare,34,2296,False,reach,VERB
+84,fallen,LABEL_0,0,1,0.9979974627494812,"of this morning , have fallen by over 30 , 000",healthcare,34,2323,False,fall,VERB
+160,end,LABEL_0,0,1,0.9917309284210204,- terms increase by the end of the spending review period,healthcare,35,2507,False,end,NOUN
+2,hammer,LABEL_0,0,1,0.9987308382987976,Let me hammer this point home : investment,healthcare,36,2516,False,hammer,NOUN
+5,home,LABEL_0,0,1,0.9976097345352172,Let me hammer this point home : investment must be matched,healthcare,36,2519,False,home,NOUN
+40,delivering,LABEL_0,0,1,0.9971455931663512,money being spent well and delivering results . We would rather,healthcare,36,2554,False,deliver,VERB
+167,unlock,LABEL_0,0,1,0.9974617958068848,control . We will also unlock £ 17 billion of savings,healthcare,36,2681,False,unlock,NOUN
+183,growth,LABEL_0,0,1,0.9913896322250366,through 2 % annual productivity growth in the NHS — money,healthcare,36,2697,False,growth,NOUN
+209,agile,LABEL_0,0,1,0.9982467889785768,make the health system more agile and efficient .,healthcare,36,2723,False,agile,ADJ
+13,end,LABEL_0,0,1,0.9983322620391846,will ensure that by the end of this Parliament 92 %,healthcare,37,2740,False,end,NOUN
+37,drive,LABEL_0,0,1,0.9996314644813538,care . This settlement will drive us further towards that goal,healthcare,37,2764,False,drive,VERB
+70,deliver,LABEL_0,0,1,0.9934738278388976,"care capacity , which could deliver more than 4 million additional",healthcare,37,2797,False,deliver,VERB
+51,wider,LABEL_0,0,1,0.9923262596130372,care will also benefit from wider reforms to better align funding,healthcare,39,2928,False,wide,ADJ
+69,landscape,LABEL_0,0,1,0.999632716178894,and simplification of the funding landscape that enables them to plan,healthcare,39,2946,False,landscape,NOUN
+86,steps,LABEL_0,0,1,0.9938381910324096,"least , we have taken steps to simplify targets and better",healthcare,39,2963,False,step,NOUN
+10,driving,LABEL_0,0,1,0.996734082698822,10 - year plan is driving progress on the three shifts,healthcare,40,3006,False,drive,VERB
+55,door,LABEL_0,0,1,0.9967828989028932,NHS app a digital front door and deliver a single patient,healthcare,40,3051,False,door,NOUN
+57,deliver,LABEL_0,0,1,0.9933710098266602,a digital front door and deliver a single patient record .,healthcare,40,3053,False,deliver,VERB
+51,end,LABEL_0,0,1,0.9995630979537964,mental health staff by the end of this Parliament ; and,healthcare,41,3145,False,end,NOUN
+19,feet,LABEL_0,0,1,0.9993906021118164,our NHS back on its feet . Fixing broken Britain will,healthcare,42,3219,False,foot,NOUN
+21,Fixing,LABEL_0,0,1,0.9951081871986388,back on its feet . Fixing broken Britain will not be,healthcare,42,3221,False,fix,VERB
+22,broken,LABEL_0,0,1,0.9982976913452148,on its feet . Fixing broken Britain will not be easy,healthcare,42,3222,False,break,VERB
+33,worth,LABEL_0,0,1,0.9979720711708068,", but nothing that is worth doing ever is . Today",healthcare,42,3233,False,worth,ADJ
+60,fit,LABEL_0,0,1,0.9986822009086608,", to make our NHS fit for the future . We",healthcare,42,3260,False,fit,ADJ
+77,plaster,LABEL_0,0,1,0.9991306662559508,manifesto to end sticking - plaster politics and do the hard,healthcare,42,3277,False,plaster,NOUN
+82,hard,LABEL_0,0,1,0.995755672454834,plaster politics and do the hard yards of fixing our country,healthcare,42,3282,False,hard,ADJ
+83,yards,LABEL_0,0,1,0.9995070099830629,"politics and do the hard yards of fixing our country ,",healthcare,42,3283,False,yard,NOUN
+85,fixing,LABEL_0,0,1,0.995094895362854,"do the hard yards of fixing our country , and we",healthcare,42,3285,False,fix,VERB
+93,betray,LABEL_0,0,1,0.9912076592445374,", and we will never betray that promise to the British",healthcare,42,3293,False,betray,NOUN
+6,story,LABEL_0,0,1,0.9977250099182128,are moments in our national story when our choices define who,healthcare,44,3382,False,story,NOUN
+24,founded,LABEL_0,0,1,0.9903337955474854,Attlee Government made a choice founded on fairness : that everyone,healthcare,44,3400,False,found,VERB
+50,enshrined,LABEL_0,0,1,0.9937973618507384,"they can afford . It enshrined in law , and in",healthcare,44,3426,False,enshrine,VERB
+62,conviction,LABEL_0,0,1,0.9982619881629944,"service itself , our collective conviction that healthcare is not a",healthcare,44,3438,False,conviction,NOUN
+2,falls,LABEL_0,0,1,0.9982397556304932,Now it falls to our generation to make,healthcare,45,3462,False,fall,VERB
+30,built,LABEL_0,0,1,0.9989158511161804,what Attlee ’ s Government built for the last . That,healthcare,45,3490,False,build,VERB
+38,driving,LABEL_0,0,1,0.9997962117195128,last . That is the driving mission of our 10 -,healthcare,45,3498,False,drive,VERB
+7,diagnosis,LABEL_0,0,1,0.9962785840034484,", Lord Darzi provided the diagnosis : the NHS was broken",healthcare,46,3514,False,diagnosis,NOUN
+12,broken,LABEL_0,0,1,0.9986198544502258,diagnosis : the NHS was broken by 14 years of Conservative,healthcare,46,3519,False,break,VERB
+43,road,LABEL_0,0,1,0.9993458986282348,put the NHS on the road to recovery . We promised,healthcare,46,3550,False,road,NOUN
+94,cutting,LABEL_0,0,1,0.9980829358100892,"people off waiting lists , cutting them to their lowest level",healthcare,46,3601,False,cut,VERB
+98,lowest,LABEL_0,0,1,0.9920356869697572,", cutting them to their lowest level in two years .",healthcare,46,3605,False,low,ADJ
+107,launched,LABEL_0,0,1,0.9977652430534364,"years . And we have launched an independent commission , chaired",healthcare,46,3614,False,launch,VERB
+118,build,LABEL_0,0,1,0.9991483092308044,"by Baroness Casey , to build a national consensus around a",healthcare,46,3625,False,build,VERB
+9,prescription,LABEL_0,0,1,0.9992340207099916,Minister has set out our prescription to get the NHS back,healthcare,47,3658,False,prescription,NOUN
+17,feet,LABEL_0,0,1,0.9995549917221068,the NHS back on its feet and make it fit for,healthcare,47,3666,False,foot,NOUN
+21,fit,LABEL_0,0,1,0.998782992362976,its feet and make it fit for the future . Our,healthcare,47,3670,False,fit,ADJ
+29,deliver,LABEL_0,0,1,0.9992234110832214,future . Our plan will deliver three big shifts . The,healthcare,47,3678,False,deliver,VERB
+31,big,LABEL_0,0,1,0.9937897324562072,Our plan will deliver three big shifts . The first is,healthcare,47,3680,False,big,ADJ
+32,shifts,LABEL_0,0,1,0.991219699382782,plan will deliver three big shifts . The first is from,healthcare,47,3681,False,shift,NOUN
+87,scramble,LABEL_0,0,1,0.9957203269004822,", end the 8 am scramble , provide same - day",healthcare,48,3833,False,scramble,VERB
+54,rebuilding,LABEL_0,0,1,0.9949787855148317,"dentists doing NHS work , rebuilding NHS dentistry .",healthcare,49,3936,False,rebuild,VERB
+30,follow,LABEL_0,0,1,0.9990397095680236,"hospitals . The funding will follow , so a greater share",healthcare,50,3970,False,follow,VERB
+35,share,LABEL_0,0,1,0.996129035949707,"follow , so a greater share of NHS investment is spent",healthcare,50,3975,False,share,NOUN
+2,shift,LABEL_0,0,1,0.9967610836029052,The second shift is from analogue to digital,healthcare,51,3989,False,shift,NOUN
+26,spend,LABEL_0,0,1,0.9989868998527528,"to their computers , or spend hours writing notes and entering",healthcare,51,4013,False,spend,VERB
+37,liberate,LABEL_0,0,1,0.9990281462669371,data . Our plan will liberate frontline staff from the parts,healthcare,51,4024,False,liberate,VERB
+3,feed,LABEL_0,0,1,0.9989497065544128,Wearable technology will feed in real - time health,healthcare,52,4112,False,feed,NOUN
+36,signs,LABEL_0,0,1,0.9984254837036132,reaching out at the first signs of deterioration . The NHS,healthcare,52,4145,False,sign,NOUN
+47,door,LABEL_0,0,1,0.999284327030182,"app will become the front door to the health service ,",healthcare,52,4156,False,door,NOUN
+53,delivering,LABEL_0,0,1,0.9993833899497986,"to the health service , delivering power to the patient .",healthcare,52,4162,False,deliver,VERB
+54,power,LABEL_0,0,1,0.9981029629707336,"the health service , delivering power to the patient . You",healthcare,52,4163,False,power,NOUN
+173,background,LABEL_0,0,1,0.9993078708648682,class service — whatever their background and whatever they earn .,healthcare,52,4282,False,background,NOUN
+2,shift,LABEL_0,0,1,0.9992786645889282,The third shift is from sickness to prevention,healthcare,53,4290,False,shift,NOUN
+25,cut,LABEL_0,0,1,0.9990339875221252,choice the easy choice to cut calories . We will roll,healthcare,53,4313,False,cut,VERB
+69,tackle,LABEL_0,0,1,0.9991294741630554,nutritious meals . We will tackle the mental health crisis with,healthcare,53,4357,False,tackle,VERB
+80,catch,LABEL_0,0,1,0.9993454813957214,"support in every school to catch problems early , 24 /",healthcare,53,4368,False,catch,VERB
+8,revolution,LABEL_0,0,1,0.9956243634223938,"on our side . The revolution in artificial intelligence , machine",healthcare,54,4406,False,revolution,NOUN
+20,golden,LABEL_0,0,1,0.9995911717414856,and big data offers a golden opportunity to deliver better care,healthcare,54,4418,False,golden,ADJ
+86,usher,LABEL_0,0,1,0.9943837523460388,beds . The NHS will usher in a new age of,healthcare,54,4484,False,usher,ADJ
+155,end,LABEL_0,0,1,0.9981668591499328,billion a year by the end of the spending review period,healthcare,54,4553,False,end,NOUN
+166,biggest,LABEL_0,0,1,0.994188129901886,", as well as the biggest capital investment in the history",healthcare,54,4564,False,big,ADJ
+7,slashes,LABEL_0,0,1,0.9996778964996338,comes reform . This plan slashes unnecessary bureaucracy and devolves power,healthcare,55,4581,False,slash,NOUN
+24,bodies,LABEL_0,0,1,0.9990758299827576,"It abolishes more than 200 bodies , because listening to patients",healthcare,55,4598,False,body,NOUN
+51,commits,LABEL_0,0,1,0.9962719678878784,been outsourced . The plan commits to publishing league tables to,healthcare,55,4625,False,commit,VERB
+88,tied,LABEL_0,0,1,0.9982025623321532,"autonomy . Pay will be tied to performance , so that",healthcare,55,4662,False,tie,VERB
+107,boost,LABEL_0,0,1,0.99833345413208,Tariffs will be reduced to boost productivity . Block contracts will,healthcare,55,4681,False,boost,VERB
+110,Block,LABEL_0,0,1,0.9990484714508056,"reduced to boost productivity . Block contracts will end , with",healthcare,55,4684,False,block,NOUN
+117,tied,LABEL_0,0,1,0.9978098273277284,"will end , with funding tied to outcomes . The plan",healthcare,55,4691,False,tie,VERB
+124,power,LABEL_0,0,1,0.9985267519950868,"outcomes . The plan gives power to the patient , so",healthcare,55,4698,False,power,NOUN
+139,closes,LABEL_0,0,1,0.9995986819267272,for better service . It closes health inequalities by investing more,healthcare,55,4713,False,close,VERB
+163,deliver,LABEL_0,0,1,0.9994319081306458,"maternity and neonatal services to deliver the truth , justice and",healthcare,55,4737,False,deliver,VERB
+40,driving,LABEL_0,0,1,0.9996375441551208,"conditions . They are ones driving innovation on the frontline ,",healthcare,56,4789,False,drive,VERB
+48,fingerprints,LABEL_0,0,1,0.9926021099090576,"the frontline , so their fingerprints are all over this plan",healthcare,56,4797,False,fingerprint,NOUN
+96,defeat,LABEL_0,0,1,0.9991193413734436,"succeed , we need to defeat the cynicism that says that",healthcare,56,4845,False,defeat,NOUN
+27,scouted,LABEL_0,0,1,0.9958910346031188,breadth of the country and scouted the world for the best,healthcare,57,4882,False,scout,VERB
+87,build,LABEL_0,0,1,0.9962698817253112,"We know that we can build the neighbourhood health service ,",healthcare,57,4942,False,build,VERB
+167,power,LABEL_0,0,1,0.998285710811615,"else , we will give power to the patient . This",healthcare,57,5022,False,power,NOUN
+195,restore,LABEL_0,0,1,0.993437111377716,every patient . It will restore the founding promise of the,healthcare,57,5050,False,restore,VERB
+23,crisis,LABEL_0,0,1,0.9935712218284608,. They will exploit the crisis in the NHS in order,healthcare,58,5090,False,crisis,NOUN
+7,counting,LABEL_0,0,1,0.9981867671012878,that the British people are counting on us . It falls,healthcare,59,5165,False,count,VERB
+12,falls,LABEL_0,0,1,0.9978126287460328,counting on us . It falls to us to ensure that,healthcare,59,5170,False,fall,VERB
+66,built,LABEL_0,0,1,0.9993961453437804,we were the generation who built an NHS fit for the,healthcare,59,5224,False,build,VERB
+69,fit,LABEL_0,0,1,0.994004487991333,generation who built an NHS fit for the future and a,healthcare,59,5227,False,fit,ADJ
+13,open,LABEL_0,0,1,0.9925824403762816,) I am delighted to open this debate on the Department,healthcare,60,5263,False,open,ADJ
+57,raises,LABEL_0,0,1,0.9966994524002076,". However , it also raises questions about deliverability , particularly",healthcare,60,5307,False,raise,VERB
+66,track,LABEL_0,0,1,0.9965738654136658,the NHS has a poor track record on digital transformation .,healthcare,61,5396,False,track,NOUN
+106,found,LABEL_0,0,1,0.9960557222366332,digital transformation in the NHS found that despite £ 4 .,healthcare,61,5436,False,find,VERB
+5,asked,LABEL_0,0,1,0.9948925375938416,The capital budget is being asked to do a great deal,healthcare,62,5467,False,ask,VERB
+72,end,LABEL_0,0,1,0.99861341714859,". However , by the end of the decade , there",healthcare,62,5534,False,end,NOUN
+107,falls,LABEL_0,0,1,0.9932830929756165,", the funding settlement actually falls to £ 13 . 5",healthcare,62,5569,False,fall,VERB
+132,erode,LABEL_0,0,1,0.9975674152374268,costs and materials will significantly erode its purchasing power . The,healthcare,62,5594,False,erode,VERB
+135,power,LABEL_0,0,1,0.999323070049286,will significantly erode its purchasing power . The British Medical Association,healthcare,62,5597,False,power,NOUN
+147,cover,LABEL_0,0,1,0.9962078928947448,warned that current funding cannot cover both the new hospital programme,healthcare,62,5609,False,cover,VERB
+37,deliver,LABEL_0,0,1,0.9931605458259584,"funding will be used to deliver several welcome commitments , including",healthcare,63,5692,False,deliver,VERB
+96,steps,LABEL_0,0,1,0.9974753260612488,. Those are all positive steps .,healthcare,63,5751,False,step,NOUN
+38,opening,LABEL_0,0,1,0.9940897822380066,at the moment and for opening today ’ s debate .,healthcare,64,5791,False,open,VERB
+86,touched,LABEL_0,0,1,0.9992594718933104,"my hon . Friend has touched on , that investment also",healthcare,64,5839,False,touch,VERB
+100,shifts,LABEL_0,0,1,0.996207058429718,targeted to enable the three shifts that the 10 - year,healthcare,64,5853,False,shift,NOUN
+107,talks,LABEL_0,0,1,0.999248206615448,"the 10 - year plan talks about . In particular ,",healthcare,64,5860,False,talk,NOUN
+116,reverse,LABEL_0,0,1,0.9979619383811952,"particular , we need to reverse the trend of more spending",healthcare,64,5869,False,reverse,VERB
+136,big,LABEL_0,0,1,0.9952431321144104,"care . We need a big uplift in dentistry , which",healthcare,64,5889,False,big,ADJ
+130,unlock,LABEL_0,0,1,0.9979514479637146,relying on digital transformation to unlock the bulk of those savings,healthcare,66,6069,False,unlock,NOUN
+1,source,LABEL_0,0,1,0.9996064901351928,Another source of savings is the plan,healthcare,67,6092,False,source,NOUN
+8,cut,LABEL_0,0,1,0.9983452558517456,savings is the plan to cut reliance on temporary staff by,healthcare,67,6099,False,cut,VERB
+54,challenge,LABEL_0,0,1,0.9911518096923828,"it will be a significant challenge , one that will require",healthcare,67,6145,False,challenge,NOUN
+73,build,LABEL_0,0,1,0.9995337724685668,working conditions . We cannot build a sustainable workforce on good,healthcare,67,6164,False,build,VERB
+40,assumes,LABEL_0,0,1,0.9986986517906188,unnecessary procedures . The plan assumes a rapid transformation of services,healthcare,68,6236,False,assume,VERB
+54,flow,LABEL_0,0,1,0.99456524848938,improvements in productivity and patient flow expected within just a few,healthcare,68,6250,False,flow,VERB
+69,context,LABEL_0,0,1,0.9952453374862672,"ambitious , especially given the context of ongoing workforce shortages ,",healthcare,68,6265,False,context,NOUN
+105,look,LABEL_0,0,1,0.9969115257263184,afford to set targets that look good on paper but falter,healthcare,68,6301,False,look,VERB
+108,paper,LABEL_0,0,1,0.9948908686637878,"targets that look good on paper but falter in practice ,",healthcare,68,6304,False,paper,NOUN
+114,damaging,LABEL_0,0,1,0.9922811985015868,"but falter in practice , damaging morale and patient care .",healthcare,68,6310,False,damage,VERB
+121,steps,LABEL_0,0,1,0.9973185658454896,and patient care . What steps is the Minister taking to,healthcare,68,6317,False,step,NOUN
+3,touch,LABEL_0,0,1,0.999155342578888,"I will also touch on adult social care ,",healthcare,69,6361,False,touch,NOUN
+23,job,LABEL_0,0,1,0.995373010635376,"Casey commission has an important job to do , but the",healthcare,69,6381,False,job,NOUN
+41,state,LABEL_0,0,1,0.9939382076263428,of Casey ’ s work state clearly :,healthcare,69,6399,False,state,NOUN
+6,reached,LABEL_0,0,1,0.9991519451141356,"that those settlements have been reached , can the Minister provide",healthcare,71,6435,False,reach,VERB
+45,length,LABEL_0,0,1,0.9930856823921204,Does she agree that the length of time set for the,healthcare,72,6533,False,length,NOUN
+67,injected,LABEL_0,0,1,0.9962573051452636,confidence that the Government have injected sufficient urgency to address the,healthcare,72,6555,False,inject,VERB
+81,robust,LABEL_0,0,1,0.996648371219635,ensuring that we have a robust social care system that can,healthcare,72,6569,False,robust,ADJ
+87,stand,LABEL_0,0,1,0.9981880784034728,social care system that can stand up to the pressures that,healthcare,72,6575,False,stand,VERB
+93,lie,LABEL_0,0,1,0.998107373714447,up to the pressures that lie ahead ?,healthcare,72,6581,False,lie,VERB
+94,ahead,LABEL_0,0,1,0.9956395626068116,to the pressures that lie ahead ?,healthcare,72,6582,False,ahead,ADV
+10,deep,LABEL_0,0,1,0.9992600679397584,hon . Member for that deep and thoughtful point . He,healthcare,73,6594,False,deep,ADJ
+20,aim,LABEL_0,0,1,0.9965725541114808,It was introduced with the aim of driving better integration between,healthcare,74,6661,False,aim,VERB
+22,driving,LABEL_0,0,1,0.9993433356285096,introduced with the aim of driving better integration between health and,healthcare,74,6663,False,drive,VERB
+86,leads,LABEL_0,0,1,0.9919118285179138,that this increase in funding leads to a greater focus on,healthcare,74,6727,False,lead,VERB
+112,Reaching,LABEL_0,0,1,0.9992622137069702,care fair pay agreement . Reaching such an agreement is not,healthcare,74,6753,False,reach,VERB
+129,far,LABEL_0,0,1,0.9972115159034728,working in care homes are far more likely to live in,healthcare,74,6770,False,far,ADV
+70,pressure,LABEL_0,0,1,0.9963401556015016,pay agreement will put undue pressure on providers unless there is,healthcare,75,6855,False,pressure,NOUN
+81,attached,LABEL_0,0,1,0.9989269971847534,some money or financial incentive attached to it so that they,healthcare,75,6866,False,attach,VERB

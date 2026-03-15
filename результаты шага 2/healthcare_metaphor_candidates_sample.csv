@@ -1,0 +1,51 @@
+word,lemma,pos,metaphor_score,context
+holders,holder,NOUN,0.9980014562606812,"Unlike the last holders of this office , this"
+faces,face,VERB,0.999460518360138,about the problems the NHS faces and serious about fixing them
+fixing,fix,VERB,0.9962786436080932,NHS faces and serious about fixing them . That is why
+served,serve,VERB,0.9954146146774292,an eminent cancer surgeon who served both Labour and Conservative -
+join,join,VERB,0.997287392616272,whole House will want to join me in thanking him for
+hard,hard,ADJ,0.9997074007987976,"Lord Darzi that we wanted hard truths , warts and all"
+warts,wart,NOUN,0.9951740503311156,"we wanted hard truths , warts and all . His findings"
+raw,raw,ADJ,0.9993123412132264,"all . His findings are raw , honest and breathtaking ."
+shocked,shock,VERB,0.9945189952850342,"years , I have been shocked by what I have found"
+reverse,reverse,VERB,0.9954063296318054,cardiovascular disease is going into reverse ; and cancer is more
+piling,pile,VERB,0.999241590499878,in life . That is piling pressure on to the NHS
+pressure,pressure,NOUN,0.993476629257202,life . That is piling pressure on to the NHS and
+symptoms,symptom,NOUN,0.9924201369285583,Those are some of the symptoms ; the report is equally
+sector,sector,NOUN,0.9905073046684264,"15 years behind the private sector on technology , with fewer"
+assessment,assessment,NOUN,0.9979705214500428,. Lord Darzi ’ s assessment is damning :
+scorched,scorch,VERB,0.9994063377380372,… it took a ‘ scorched earth ’ approach to health
+approach,approach,NOUN,0.9992669224739076,a ‘ scorched earth ’ approach to health reform ” .
+sticking,stick,VERB,0.9991451501846312,in place ‘ workarounds and sticking plasters ’ to bypass the
+liberating,liberate,VERB,0.9991451501846312,"“ Rather than liberating the NHS , as promised"
+imprisoned,imprison,VERB,0.9993652701377868,and Social Care Act 2012 imprisoned more than a million NHS
+broken,break,VERB,0.9987608194351196,million NHS staff in a broken system for the best part
+felt,feel,VERB,0.9932651519775392,the effects … are still felt to this day . ”
+dissolving,dissolve,VERB,0.9956421256065368,billions of pounds wasted on dissolving and reconstituting management structures had
+structures,structure,NOUN,0.9972636103630066,on dissolving and reconstituting management structures had instead been invested in
+mess,mess,NOUN,0.9991417527198792,would not be in the mess it finds itself in today
+finds,find,VERB,0.9960351586341858,be in the mess it finds itself in today .
+hit,hit,VERB,0.999270498752594,not know that the pandemic hit the NHS harder than any
+harder,hard,ADV,0.9936262965202332,the pandemic hit the NHS harder than any other comparable healthcare
+far,far,ADV,0.9966586828231812,The NHS cancelled far more operations and routine care
+impact,impact,NOUN,0.9989586472511292,“ The pandemic ’ s impact was magnified because the NHS
+weakened,weaken,VERB,0.9986863732337952,the NHS had been seriously weakened in the decade preceding its
+sits,sit,VERB,0.999580442905426,Fourthly — this sits firmly at Opposition Members ’
+firmly,firmly,ADV,0.9938223958015442,Fourthly — this sits firmly at Opposition Members ’ door
+lead,lead,VERB,0.993139147758484,in hospitals . Did it lead to better outcomes for patients
+fall,fall,NOUN,0.9919195175170898,has instead seen a huge fall in productivity . We paid
+resources,resource,NOUN,0.997526228427887,— a deplorable waste of resources when so many parts of
+crying,cry,VERB,0.997569501399994,health and care services were crying out for investment . As
+dealing,deal,VERB,0.9970545172691344,beds for their patients and dealing with outdated IT when they
+drove,drive,VERB,0.9997499585151672,"last Labour Government , which drove better performance and better care"
+highest,high,ADJ,0.9972036480903624,the shortest waiting times and highest patient satisfaction in history to
+broken,break,VERB,0.9991472363471984,satisfaction in history to the broken NHS that we see today
+prescription,prescription,NOUN,0.998554229736328,"to us to write the prescription , and we have three"
+collapse,collapse,VERB,0.9988804459571838,and allow the NHS to collapse . That is the path
+path,path,NOUN,0.9986951351165771,collapse . That is the path on which they set the
+path,path,NOUN,0.9980908036231996,"the NHS , and the path that it is on today"
+pour,pour,VERB,0.9994651079177856,on the left demand — pour ever - increasing amounts of
+path,path,NOUN,0.9994299411773682,we will not take that path . This Government are making
+crisis,crisis,NOUN,0.9901778697967528,"to deal with the immediate crisis by hiring 1 , 000"
+cripple,cripple,NOUN,0.9994032979011536,strikes that they allowed to cripple our health service .
+deliver,deliver,VERB,0.996641993522644,report . Our plan will deliver the three big shifts needed
